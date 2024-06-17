@@ -1,0 +1,84 @@
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> New record inserted
+2022-07-26 >> Oil record 61 is deleted
+2022-07-26 >> Data File exported
+2022-07-27 >> New record inserted
+2022-07-27 >> Data File exported
+2022-07-27 >> Data Imported, all previous data has been destroyed
+2022-07-28 >> Data File exported
+2022-07-28 >> Data File exported
+2022-08-04 >> New record inserted
+2022-08-04 >> Oil record 40 is deleted by sachindu
+2022-08-04 >> Data File exported by sachindu
+2022-08-04 >> New record inserted by sandya
+2022-08-04 >> Record 38 is updated by sandya
+2022-08-04 >> New record inserted by sandya
